@@ -10,6 +10,7 @@ export default {
 }
 </script>
 <style>
- @import url("http://at.alicdn.com/t/font_738390_qwuef7nrlr.css");
+ @import url("http://at.alicdn.com/t/font_738390_dsz8wwy3kvi.css");
+ 
 </style>
 

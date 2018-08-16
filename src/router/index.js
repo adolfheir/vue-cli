@@ -70,7 +70,8 @@ export const asyncRouterMap = [
         name: 'Form',
         component: () => import('@/views/form/index'),
         meta: { title: 'Form', icon: 'icon-biaodan',roles: ['test'] }
-      }
+      },
+     
     ]
   },
 
